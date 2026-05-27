@@ -450,7 +450,7 @@ p {
   position: relative;
   min-height: 90vh;
   background-color: var(--dark-deep);
-  background-image: url("../assets/images/hero-bg.jpg"); /* ADD THIS LINE */
+  background-image: url("assets/images/hero-bg.jpg"); 
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
